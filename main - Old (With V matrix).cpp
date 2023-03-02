@@ -1,6 +1,6 @@
 //free(root)
 #define _CRT_SECURE_NO_WARNINGS
-#define EPS 0.00001
+#define EPS 0.001
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
